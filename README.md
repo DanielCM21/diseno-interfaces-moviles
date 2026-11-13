@@ -4,6 +4,8 @@ Ejemplos de código de la exposición de **Programación Móvil**.
 
 **Integrantes:** Vanessa Orozco · Daniel Castañeda
 
+Link Video Exposición: https://youtu.be/C6LJ2Ccz8lI
+
 La misma app de notas está construida tres veces en Flutter para comparar las dos guías de diseño:
 
 | Demo | Guía | Qué muestra |
